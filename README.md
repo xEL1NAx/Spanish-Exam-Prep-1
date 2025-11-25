@@ -1,8 +1,3 @@
-Here is the **complete README.md**, **fully Markdown**, **clean**, **single block**, and **ready to paste into GitHub** — no mixed formatting, no stray text.
-
----
-
-```markdown
 # 🇪🇸 Spanish Exam Prep — iOS App
 
 **Spanish Exam Prep** is a lightweight, fast, and interactive iOS application designed to help students study Spanish vocabulary, grammar, sentence structures, reflexive verbs, *gerundio*, time expressions, writing prompts, and more.  
