@@ -103,38 +103,6 @@ This guarantees:
 
 ---
 
-## 🚀 Getting Started
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/your-username/spanish-exam-prep.git
-```
-
-### 2. Open in Xcode
-
-```bash
-open Spanish\ Exam\ Prep\ \#1.xcodeproj
-```
-
-### 3. Run the project
-
-Select a simulator → **Run (⌘R)**.
-
----
-
-## 📦 App Icon
-
-The project includes a custom app icon located at:
-
-```
-/mnt/data/A_flat_design_app_icon_in_digital_vector_graphic_f.png
-```
-
-Replace it in `Assets.xcassets` if needed.
-
----
-
 ## 🧪 Future Improvements
 
 * Add spaced repetition (SRS)
